@@ -12,5 +12,7 @@ Extract information via both automated browsing with Splinter and HTML parsing w
 - Used Xpert Learning Assistant for assistance debugging.
 -  Used the following webpages for assistance troubleshooting/with concepts.
   1. https://www.datasciencecentral.com/how-to-use-python-to-loop-through-html-tables-and-scrape-tabular-data/
-  2. https://stackoverflow.com/questions/4622117/how-to-loop-through-a-html-table-dataset-in-python
-  3. 
+  2. https://stackoverflow.com/questions/45843025/parsing-html-tables-with-beautifulsoup-in-python
+  3. https://stackoverflow.com/questions/10309550/python-beautifulsoup-iterate-over-table
+  4. https://pytutorial.com/understand-how-to-work-with-table-in-beautifulsoup/#find-table-within-html
+  5. []
