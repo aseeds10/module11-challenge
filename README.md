@@ -7,7 +7,7 @@ Extract information via both automated browsing with Splinter and HTML parsing w
 ## Installation
 1. Clone the repository
 2. Install dependencies (Splinter, Beautiful Soup, Pandas, matplotlib.pyplot)
-3. Create file called "mars_weather.csv" to old dataframe at end of file
+3. Create file called "mars_weather.csv" to be able to hold output dataframe at the end.
 
 ## Acknowledgments
 - Used Xpert Learning Assistant for assistance debugging.
