@@ -1,5 +1,5 @@
-# Project Title
-Rutgers Bootcamp Challenge 11 - WebScraping
+# Webscraping Challenge
+Challenge 11 - WebScraping
 
 ## Description
 Extract information via both automated browsing with Splinter and HTML parsing with Beautiful Soup.
